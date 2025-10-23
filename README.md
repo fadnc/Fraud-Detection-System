@@ -18,3 +18,10 @@ This repository implements an end-to-end fraud detection pipeline:
 The repository is organized so you can run experiments from notebooks and productionize using the modular scripts.
 
 ---
+## Quickstart
+
+1. Create virtual environment and install dependencies:
+```bash
+python -m venv .venv
+source .venv/bin/activate   # or .venv\Scripts\activate on Windows
+pip install -r requirements.txt

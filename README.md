@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Fraud Detection System
+#  Fraud Detection System
 
 **Project:** Machine Learning pipeline to detect fraudulent credit card transactions (binary classification)  
 **Stack:** Python, Pandas, Scikit-learn, XGBoost, Imbalanced-learn, SHAP, Streamlit *(optional)*  
@@ -7,7 +7,7 @@ Place `creditcard.csv` inside the `data/` folder.
 
 ---
 
-## 📄 Project Summary
+##  Project Summary
 
 This repository implements an end-to-end **Fraud Detection** pipeline with the following features:
 
@@ -21,7 +21,7 @@ The project is modular — you can experiment in notebooks and move to productio
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1. Create a virtual environment and install dependencies
 ```bash
@@ -62,7 +62,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 📦 requirements.txt
+##  requirements.txt
 
 Below is the list of dependencies required for this project:
 
@@ -83,7 +83,7 @@ Save this as `requirements.txt` in your project root.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── data/
@@ -105,7 +105,7 @@ Save this as `requirements.txt` in your project root.
 
 ---
 
-## 🧠 Model Explainability
+##  Model Explainability
 
 - **SHAP values** are used to interpret model predictions.  
 - Visual insights reveal which features contribute most to detecting fraud.  
@@ -113,17 +113,17 @@ Save this as `requirements.txt` in your project root.
 
 ---
 
-## 🧰 Tech Highlights
+##  Tech Highlights
 
-- ✅ **XGBoost** for high-performance classification  
-- ⚖️ **SMOTE** for imbalanced data handling  
-- 💡 **SHAP** for model interpretability  
-- 🧩 **Scikit-learn Pipelines** for clean preprocessing  
-- 🖥️ **Streamlit** for user-friendly deployment  
+-  **XGBoost** for high-performance classification  
+-  **SMOTE** for imbalanced data handling  
+-  **SHAP** for model interpretability  
+-  **Scikit-learn Pipelines** for clean preprocessing  
+-  **Streamlit** for user-friendly deployment  
 
 ---
 
-## ✨ Future Enhancements
+##  Future Enhancements
 
 - 🔹 Add Deep Learning models (Autoencoders)  
 - 🔹 Deploy API using **FastAPI**  
@@ -132,11 +132,10 @@ Save this as `requirements.txt` in your project root.
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Fadhil Muhammed N C**  
 Data Science Enthusiast | Machine Learning | AI | Streamlit Apps  
-📧 *[Add your email or LinkedIn if desired]*
 
 ---
 
